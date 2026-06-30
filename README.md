@@ -8,7 +8,7 @@ This repository contains a professional Web Application Penetration Test perform
 The assessment was conducted following:
 
 - OWASP Web Security Testing Guide (WSTG)
-- OWASP Top 10 (2021)
+- OWASP Top 10 (2025)
 - PTES Methodology
 
 ---
@@ -21,7 +21,7 @@ The assessment was conducted following:
 | Methodology | OWASP WSTG |
 | Tools | Burp Suite, SQLMap, Firefox |
 | Report Pages | 37 |
-| Total Findings | 10 |
+| Total Findings | 17 |
 
 ---
 
